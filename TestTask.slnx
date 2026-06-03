@@ -1,0 +1,14 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path=".gitattributes" />
+    <File Path=".gitignore" />
+    <File Path="Directory.Packages.props" />
+    <File Path="publish-react-and-run.ps1" />
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="TestTask.Data.Contract/TestTask.Data.Contract.csproj" Id="aa630547-7a6c-4977-b53c-f3a84bda33ff" />
+  <Project Path="TestTask.Data.EF/TestTask.Data.EF.csproj" Id="541c6d05-a706-4019-ad80-222875a5986d" />
+  <Project Path="TestTask.Infrastructure.Contact/TestTask.Infrastructure.Contact.csproj" Id="a1902d8f-4658-45ef-a5c8-f0d5ea65ec4c" />
+  <Project Path="TestTask.Infrastructure/TestTask.Infrastructure.csproj" Id="7bc74d2b-a520-4431-ab74-8eb106b5b315" />
+  <Project Path="TestTask.Web/TestTask.Web.csproj" />
+</Solution>
